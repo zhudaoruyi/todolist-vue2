@@ -1,5 +1,7 @@
 # todolist-vue2
 
+![](./thumbnail.png)
+
 ## Project setup
 ```
 yarn install
