@@ -1,6 +1,6 @@
 # todolist-vue2
 
-![](./thumbnail.png)
+![](https://gitee.com/penmily/todolist-vue2/raw/master/thumbnail.png)
 
 ## Project setup
 ```
